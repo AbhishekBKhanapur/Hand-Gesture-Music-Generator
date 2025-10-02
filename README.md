@@ -47,8 +47,4 @@ License
 MIT License
 
 
----
 
-If you want, I can also **make a short 250-character GitHub “About” description** for this project so it looks neat on your profile.  
-
-Do you want me to do that?
