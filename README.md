@@ -20,31 +20,7 @@ The Hand Gesture Music Generator allows users to create and control music in rea
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/hand-gesture-music-generator.git
-Install required libraries:
 
-pip install -r requirements.txt
-
-
-Run the main script:
-
-python music_generator.py
-
-
-Use your hand gestures in front of the webcam to generate music.
-
-Future Scope
-
-Add support for more gestures and instruments
-
-Record and save created music
-
-Integrate with MIDI devices for professional use
-
-Web or mobile deployment for interactive music creation
-
-License
-
-MIT License
 
 
 
